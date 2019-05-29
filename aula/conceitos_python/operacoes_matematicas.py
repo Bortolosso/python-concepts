@@ -1,0 +1,13 @@
+print(10+10)
+print(10+ (50+50))
+
+print(10-10)
+print(1000-80)
+
+print(10/5)
+print(10/6)
+print(10//6)
+#Ao utilizarmos dois simbulos de divisao "//" o resultado saira com a remocao das casas decimais.
+
+print(10*800)
+print(55*5)
